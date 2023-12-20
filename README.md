@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
-<h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
+<h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues, and submit PRs if you think something could improve.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
